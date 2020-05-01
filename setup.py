@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='coopstructs',
-      version='0.1',
+      version='0.3',
       description='basic commonly used data structures for python applications',
       url='https://github.com/tylertjburns/datastructs',
       author='tburns',
